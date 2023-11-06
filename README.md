@@ -8,6 +8,4 @@
 
 :computer:  Estudando Python.
 
-![Snake animation](https://github.com/Dannmlo/Dannmlo/blob/output/github-contribution-grid-snake.svg)
-
 
