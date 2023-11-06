@@ -1,4 +1,4 @@
-## Eu sou o Daniel! :one::nine:
+## Eu sou o Daniel! 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 :one::nine:
@@ -8,6 +8,6 @@
 
 :computer:  Estudando Python.
 
-
+![Snake animation](https://github.com/Dannmlo/Dannmlo/blob/output/github-contribution-grid-snake.svg)
 
 
