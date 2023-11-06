@@ -8,6 +8,6 @@
 
 :computer:  Estudando Python.
 
-[![Dannmlo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannmlo)](https://github.com/Dannmlo/github-readme-stats)
+
 
 
