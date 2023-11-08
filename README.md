@@ -18,14 +18,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Conhecimentos 👩🏻‍💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
 <br>
 
 ## Ferramentas 👩🏻‍💻
-![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
+![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=FF1493&style=for-the-badge) &nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
