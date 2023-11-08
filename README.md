@@ -4,13 +4,11 @@
 
 ## Sobre mim 🎯
 
-💻 Trabalho como Front End Sênior<br>
-🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end<br>
-🎤 Criadora de Conteúdo digital (artigos, palestras, publicações, newsletter) em @lari.sazevedo<br>
+💻 Estudando Desenvolvimento de Sistemas<br>
+🧊 Aluno da EEEP- Sebastião Vasconselos Sobrinho
 💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia<br>
-🎮 Graduada em Jogos Digitais e Desenvolvimento Fullstack<br>
-📚 Aprendendo mais sobre TDD, Patterns e SOLID atualmente<br>
-🐱 Eu amo gatos :)<br>
+🎮 Conhecedor em Jogos Digitais<br>
+📚 Aprendendo mais sobre Python, atualmente
 <br>
 
 ## Stack 👩🏻‍💻
@@ -21,6 +19,7 @@
 
 ## Conhecimentos 👩🏻‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 <br>
 
 ## Ferramentas 👩🏻‍💻
@@ -39,5 +38,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmlo&layout=compact&theme=onedark"/>  
 </a>
-
-<a href="https://app.daily.dev/Dannmlo"><img src="https://api.daily.dev/devcards/a6f433c8c780480ea3c3296f29cc1a73.png?r=pdw" width="400" alt="Dann's Dev Card"/></a>
