@@ -1,24 +1,52 @@
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
+[![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=color=red)](https://visitcount.itsvg.in)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dannmlo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dannmlo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmlo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Sobre mim 🎯
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dannmlo&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+💻 Estudando Desenvolvimento de Sistemas<br>
+🧊 Aluno da EEEP- Sebastião Vasconselos Sobrinho<br>
+💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento de softwares<br>
+🎮 Conhecedor em Jogos Digitais<br>
+📚 Aprendendo mais sobre Python, atualmente
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Stack 👩🏻‍💻
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dannmlo&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=7&color=4)](https://visitcount.itsvg.in)
+## Conhecimentos 👩🏻‍💻
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Ferramentas 👩🏻‍💻
+![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=FF1493&style=for-the-badge) &nbsp;
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
+<br>
+
+<br>
+
+## Status ⭐
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=Dannmlo&show_icons=true&theme=onedark" />
+</a> &nbsp; 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmlo&layout=compact&theme=onedark"/>  
+</a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+
+</picture>
