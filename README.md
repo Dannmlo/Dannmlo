@@ -5,8 +5,8 @@
 ## Sobre mim 🎯
 
 💻 Estudando Desenvolvimento de Sistemas<br>
-🧊 Aluno da EEEP- Sebastião Vasconselos Sobrinho
-💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento de softwares
+🧊 Aluno da EEEP- Sebastião Vasconselos Sobrinho<br>
+💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento de softwares<br>
 🎮 Conhecedor em Jogos Digitais<br>
 📚 Aprendendo mais sobre Python, atualmente
 <br>
