@@ -1,6 +1,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
 [![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=color=red)](https://visitcount.itsvg.in)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br>
 
 ## Sobre mim 🎯
