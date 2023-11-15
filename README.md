@@ -1,3 +1,8 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Daniel!;" />
+</h1>
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
 [![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=color=red)](https://visitcount.itsvg.in)
 <br>
