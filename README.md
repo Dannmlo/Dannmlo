@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Daniel!;" />
 </h1>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
 [![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=color=red)](https://visitcount.itsvg.in)
 <br>
 
@@ -35,4 +34,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
