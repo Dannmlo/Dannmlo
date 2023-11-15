@@ -4,7 +4,7 @@
 </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
-[![](https://visitcount.itsvg.in/api?id=Dannmlo&icon=color=red)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Dannmlo-username&style=for-the-badge)
 <br>
 
 ## Sobre mim 🎯
