@@ -29,23 +29,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-
 <br>
-
-<br>
-
-## Status ⭐
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=Dannmlo&show_icons=true&theme=onedark" />
-</a> &nbsp; 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmlo&layout=compact&theme=onedark"/>  
-</a>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-
-</picture>
