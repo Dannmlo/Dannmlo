@@ -1,39 +1,48 @@
+### 👋 Olá! Eu sou o dannmlo!
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Daniel!;" />
-</h1>
+<p align="left">
+  Sou um desenvolvedor e entusiasta de tecnologia, sempre focado em aprender e aplicar meus conhecimentos para criar soluções inovadoras.
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Dannmlo) 
-![](https://komarev.com/ghpvc/?username=Dannmlo-username&style=for-the-badge)
-<br>
+---
 
+### 🚀 Sobre Mim
+- 🌱 Atualmente estou aprendendo **[COLOQUE AQUI O QUE VOCÊ ESTÁ ESTUDANDO]** (Ex: React, Node.js, Python para Data Science, etc.)
+- 🔭 Estou trabalhando em **[COLOQUE AQUI SEU PROJETO PESSOAL]** (Ex: Um app de finanças, um site, etc.)
+- 💬 Pergunte-me sobre **[ASSUNTO QUE VOCÊ DOMINA]** (Ex: HTML, CSS, JavaScript, Git)
+- 📫 Como me encontrar: **[SEU-EMAIL@exemplo.com]**
 
-## Sobre mim 🎯
+---
 
-💻 Estudando Desenvolvimento de Sistemas<br>
-🧊 Aluno da EEEP- Sebastião Vasconselos Sobrinho<br>
-💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento de softwares<br>
-🎮 Conhecedor em Jogos Digitais<br>
-📚 Aprendendo mais sobre Python, atualmente
-<br>
+### 🔗 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## Stack 👩🏻‍💻
+---
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
-## Conhecimentos 👩🏻‍💻
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=blue)
-![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
-<br>
+---
 
-## Ferramentas 👩🏻‍💻
-![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=FF1493&style=for-the-badge) &nbsp;
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br>
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannmlo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannmlo&layout=compact&langs_count=7&theme=dracula"/>
+</p>
