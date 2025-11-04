@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mim
 - 🌱 Atualmente estou aprendendo **React,Java, Node.js, Python para Data Science.**
 - 🔭 Estou trabalhando em **um site.**
-- 📫 Como me encontrar: **[odanielmelo041@gmail.com]**
+- 📫 Como me encontrar: **odanielmelo041@gmail.com**
 
 ---
 
