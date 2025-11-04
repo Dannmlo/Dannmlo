@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o dannmlo!
+### 👋 Olá! Eu sou o Daniel!
 
 <p align="left">
   Sou um desenvolvedor e entusiasta de tecnologia, sempre focado em aprender e aplicar meus conhecimentos para criar soluções inovadoras.
