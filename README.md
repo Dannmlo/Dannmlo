@@ -7,19 +7,18 @@
 ---
 
 ### 🚀 Sobre Mim
-- 🌱 Atualmente estou aprendendo **[COLOQUE AQUI O QUE VOCÊ ESTÁ ESTUDANDO]** (Ex: React, Node.js, Python para Data Science, etc.)
-- 🔭 Estou trabalhando em **[COLOQUE AQUI SEU PROJETO PESSOAL]** (Ex: Um app de finanças, um site, etc.)
-- 💬 Pergunte-me sobre **[ASSUNTO QUE VOCÊ DOMINA]** (Ex: HTML, CSS, JavaScript, Git)
-- 📫 Como me encontrar: **[SEU-EMAIL@exemplo.com]**
+- 🌱 Atualmente estou aprendendo **React,Java, Node.js, Python para Data Science.**
+- 🔭 Estou trabalhando em **um site.**
+- 📫 Como me encontrar: **[odanielmelo041@gmail.com]**
 
 ---
 
 ### 🔗 Conecte-se Comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/dannmlo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com" target="_blank">
+  <a href="mailto:odanielmelo041@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
